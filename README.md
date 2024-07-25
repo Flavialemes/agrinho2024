@@ -1,1 +1,1 @@
-https://elysios.com.br/blog10-tecnologias-para-o-campo-que-estao-impactando-toda-a-cadeia-de-valor-agricola-do-plantio-ate-a-agroindustria/
+
