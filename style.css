@@ -1,10 +1,14 @@
 
+:root{
+    --cor-de-fundo:#9efec6;
+
+}
 
 body {
     margin: 30px;
     padding: auto;
     text-align: justify;
     color: Black;
-    background-color: rgb(216, 184, 189);
+    background-color:var(--cor-de-fundo)
 
 }
