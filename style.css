@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
 :root{
     --cor-de-fundo:#9efec6;
 
@@ -10,5 +10,6 @@ body {
     text-align: center;
     color: Black;
     background-color:var(--cor-de-fundo)
+    
 
 }
